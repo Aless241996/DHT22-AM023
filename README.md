@@ -1,0 +1,2 @@
+# DHT22-AM023
+DHT22 TEMPERATURE AND HUMIDITY TO adafruit_dht Circuit_Python
